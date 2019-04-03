@@ -1,5 +1,5 @@
 ###
-# CKI
+# 
 # Sentence analysis, comparisons, and more.	
 # @author Imad Khoury - October 2013
 # Sentalyzer.r
